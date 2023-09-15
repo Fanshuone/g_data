@@ -20,4 +20,7 @@ def match_htsc_code():
 
 if __name__ == '__main__':
     data = match_htsc_code()
+    print(data.index('300256.SZ'))
     print(len(data))
+
+
