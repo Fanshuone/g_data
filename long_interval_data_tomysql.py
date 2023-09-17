@@ -1,4 +1,4 @@
-from stock_remove import remove_stock
+from stock_remove_demo import remove_stock
 from threading import Thread
 from insight_python.com.insight import common
 from insight_python.com.insight.query import *
